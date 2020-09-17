@@ -1,1 +1,1 @@
-# Inceptionis-Augmented-Universal-Adversarial-Perturbations-for-Attacking-Image-Spam-Classifiers
+# Universal Adversarial Perturbations and Image Spam Classifiers
